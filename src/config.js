@@ -8,7 +8,7 @@ module.exports = {
   SpotifySecret: process.env.SPOTIFYSECRET || '3618fdc0b4824cfd91a8d425dac32987', // spotify client secret
   mongourl: process.env.MONGO_URI || 'mongodb+srv://rlx:rlx@rlx1.qqf2i.mongodb.net/myFirstDatabase?retryWrites=true&w=majority', // MongoDb URL
   embedColor: process.env.COlOR || '#2B2928', // embed colour
-  logs: process.env.LOGS || '958902667994878003', // Discord channel id 
+  logs: process.env.LOGS || '1161185802982801420', // Discord channel id 
   links: {
     support: process.env.SUPPORT || 'https://discord.gg/s7SeG7jQXQ',
     invite: process.env.INVITE || 'https://discord.com/api/oauth2/authorize?client_id=1148829424796569792&permissions=8&scope=bot%20applications.commands',
