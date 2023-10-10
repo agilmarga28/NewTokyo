@@ -16,7 +16,7 @@ module.exports = {
       new MessageButton()
         .setLabel('Community')
         .setStyle('LINK')
-        .setURL('https://discord.gg/Eka8GPdgfY'),
+        .setURL('https://discord.gg/s7SeG7jQXQ'),
       new MessageButton().setLabel('Anonim').setStyle('LINK').setURL(client.config.links.support),
     );
     const mainPage = new MessageEmbed()
@@ -35,10 +35,10 @@ module.exports = {
         true,
       )
       .addField('Organization', '[Anonim]', true)
-      .addField('Repository', '[Here](https://discord.gg/Eka8GPdgfY)', true)
+      .addField('Repository', '[Here](https://discord.gg/s7SeG7jQXQ)', true)
       .addField(
         '\u200b',
-        `[Tokyo-music](https://discord.gg/Eka8GPdgfY) is [Rich Music](https://discord.gg/Eka8GPdgfY)'s Was created by Anonim. He really wants to make his first open source project ever. Because he wants more for coding experience. In this project, he was challenged to make project with less bugs. Hope you enjoy using Tokyo-Music!`,
+        `[Tokyo-music](https://discord.gg/s7SeG7jQXQ) is [Rich Music](https://discord.gg/s7SeG7jQXQ)'s Was created by Anonim. He really wants to make his first open source project ever. Because he wants more for coding experience. In this project, he was challenged to make project with less bugs. Hope you enjoy using Tokyo-Music!`,
       );
     return message.reply({ embeds: [mainPage], components: [row] });
   },
