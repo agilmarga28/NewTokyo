@@ -23,10 +23,10 @@ module.exports = {
       .setAuthor({
         name: 'TokyoMusic',
         iconURL:
-          'https://media.discordapp.net/attachments/828997286628556851/1158611410201366548/images_1_13.jpg?ex=651ce076&is=651b8ef6&hm=d10d2d0e478d83848f6f9d1f22dd116eed95eda0fc1c095e09c042e5d43a4d68&',
+        'https://media.discordapp.net/attachments/571068093493805067/1161183666857328640/20231008_161949.jpg?ex=65375f8f&is=6524ea8f&hm=b3c092a5ae2c6556bbb77733e2c0d4321a2c0796c1a676232b7a9545661d9071&',
       })
       .setThumbnail(
-        'https://media.discordapp.net/attachments/828997286628556851/1158611410201366548/images_1_13.jpg?ex=651ce076&is=651b8ef6&hm=d10d2d0e478d83848f6f9d1f22dd116eed95eda0fc1c095e09c042e5d43a4d68&',
+        'https://media.discordapp.net/attachments/571068093493805067/1161183666857328640/20231008_161949.jpg?ex=65375f8f&is=6524ea8f&hm=b3c092a5ae2c6556bbb77733e2c0d4321a2c0796c1a676232b7a9545661d9071&',
       )
       .setColor('#303236')
       .addField(
