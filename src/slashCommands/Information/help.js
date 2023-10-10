@@ -22,7 +22,7 @@ module.exports = {
     const embed = new MessageEmbed()
       .setTitle(`${client.user.username} Help`)
       .setDescription(
-        ` Hello **<@${interaction.user.id}>**, I am <@${client.user.id}>.  \n\nA Discord Music Bot With Many Awesome Features, \nSupport Many Sources \n\n\ 🎵 •Music\n\ 🗒️\ •Playlist\n\ ℹ️\ •information\n\ ⚙️\ •Config\n\ 🎙️\ •Filters\n\n *Choose an category below to see commands* \n\n`,
+        ` Hello **<@${interaction.user.id}>**, I am <@${client.user.id}>.  \n\nA Discord Music Bot With Many Awesome Features, \nSupport Many Sources \n\n\ 🎵 •Music\n\ 🗒️\ •Playlist\n\ ℹ️\ •information\n\ ⚙️\ •Settings\n\ 🎙️\ •Filters\n\n *Choose an category below to see commands* \n\n`,
       )
       .setThumbnail(client.user.displayAvatarURL())
       .setColor(client.embedColor)
