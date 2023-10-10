@@ -7,9 +7,9 @@
     TokyoMusic is  a powerful music Bot
     <br />
     <br />
-    <a href="https://discord.gg/CcqexNBXze">Report Bug</a>
+    <a href="https://discord.gg/s7SeG7jQXQ">Report Bug</a>
     ·
-    <a href="https://discord.gg/CcqexNBXze">Request Feature</a>
+    <a href="https://discord.gg/s7SeG7jQXQ">Request Feature</a>
   </p>
 </p>
 <!-- ABOUT THE PROJECT -->
@@ -69,5 +69,5 @@ To start your bot
 npm start
 ```
 ###
-TEC-Music is a discord music bot 
+Tokyo-Music is a discord music bot 
 If you liked this repository, feel free to leave a star ⭐ to help promote !
