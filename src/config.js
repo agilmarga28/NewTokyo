@@ -11,7 +11,7 @@ module.exports = {
   logs: process.env.LOGS || '958902667994878003', // Discord channel id 
   links: {
     support: process.env.SUPPORT || 'https://discord.gg/s7SeG7jQXQ',
-    invite: process.env.INVITE || 'https://discord.gg/s7SeG7jQXQ',
+    invite: process.env.INVITE || 'https://discord.com/api/oauth2/authorize?client_id=1148829424796569792&permissions=8&scope=bot%20applications.commands',
     vote: process.env.VOTE || 'none',
     bg: process.env.BG || 'http://media.discordapp.net/attachments/571068093493805067/1158261860995436624/images_1_20.jpg?ex=651b9aeb&is=651a496b&hm=e0d45a9854097986a51c40d24b139edbc00d4cf27496aab6ea036785d17d6ea6&'
   },
